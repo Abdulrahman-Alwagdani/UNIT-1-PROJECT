@@ -2,39 +2,29 @@
 
 
 
-## Based on what you’ve learned until now , create a project of your choosing (impress us with your imagination) . This project must at least satisfy the following minimum requirements :
 
-- Must be interactive on CLI.
-- Use your coding skills in Python accurately.
-- Organize Your Code into modules & (or packages)
+## Project: Python bootcamp learning platform.
 
-## Example Project :  An online Grocery Store :
+#### Overview : A simplified simulation mimicking a backend system where an admin updates and modifies the system manually. To be automated at a later stage. 
 
-#### Overview : An online store that sells fruits to customers. This online store has 2 main users. The customer and the manager of the store . Each one of them should be able to do the following tasks for the store to function properly . 
+#### As an admin I should be able to do the following:
 
-#### As a customer I should be able to do the following :
-- Browse  Products . 
-- View the product info (summary, specs, price, quantity , etc.)
-- Search for Products.
-- Get recommendations for my next purchase based on my purchase history.
-- Add Products to the shopping cart .
-- Remove a product from the shopping cart.
-- List the products in my shopping cart. 
-- Continue to checkout . 
-- Fill in my address for delivery.
-- Get receipt of my purchases.
-- Check delivery status . 
+- Terminate the program.
+- Add students to the database. 
+- List all students registered in the database.
+- Update students' progress.
+- Search for students and view their progress.
+- Get statistics about the courses.
 
 
+#### Usage:
+ Explain to the user how to use your project:
 
-#### Usage :
- Explain to the user how to use your project . 
- for example:
- - type in search product_name to search for a product.
- - type in list_products to show all the products in the grocery.
- - type in show product_name to get information about this product.
- - type in buy product_name to buy the product . 
- - and so on...
-
+ - type in 0 to terminate the program.
+ - type in 1 to add a student to the database.
+ - type in 2 to list all students registered in the database.
+ - type in 3 to update students' progress. 
+ - type in 4 to search for students and view their progress.
+ - type in 5 to get statistics about the courses. 
 
 ### For your project. Edit this README.md file to include your own project name,  overview, user stories, and usage. 
